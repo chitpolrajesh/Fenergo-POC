@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Billing_Add</name>
+   <tag></tag>
+   <elementGuidId>9303aa5a-d04e-4ff2-ac1c-219124e717de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.entitydata181.entitydata269.entitydata271.entitydata7351 > span.entitydata270</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@fenx/ui-entitydata']/div/div/div/div/div/div[2]/div[4]/div[2]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;data-group-required-types-alert&quot;] >> internal:role=button[name=&quot;Add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8a35e48-348c-4b18-8f4c-e14e16e2984f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entitydata270</value>
+      <webElementGuid>5521063d-766b-4d33-9cd4-2555c681431a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>7f3a68bf-aaa5-45f9-8c32-9d3977fc055c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-entitydata&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;entitydata26&quot;]/div[@class=&quot;entitydata29 entitydata30&quot;]/div[4]/div[2]/div[@class=&quot;entitydata7348&quot;]/div[@class=&quot;entitydata7350&quot;]/button[@class=&quot;entitydata181 entitydata269 entitydata271 entitydata7351&quot;]/span[@class=&quot;entitydata270&quot;]</value>
+      <webElementGuid>fba537c6-5357-4de9-8fe7-b416df725e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-entitydata']/div/div/div/div/div/div[2]/div[4]/div[2]/div/div/button/span</value>
+      <webElementGuid>7758b0cb-dc63-4c39-82e7-4d739dca2e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[1]/following::span[3]</value>
+      <webElementGuid>5bb64f8b-f36e-49d7-a781-9eb51c2ad6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data added'])[1]/preceding::span[3]</value>
+      <webElementGuid>8a7ff1fd-935f-4151-be8a-d2caf1d7482a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/preceding::span[3]</value>
+      <webElementGuid>9ad64063-fb62-47b9-b5f9-8cb475261c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>e1d21e61-7fb3-4c9b-b2ae-8a112a2725cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/button/span</value>
+      <webElementGuid>ae88316c-0358-42d8-965f-212bfadbc9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>601b17d4-678b-4746-b161-0083b203d0cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
