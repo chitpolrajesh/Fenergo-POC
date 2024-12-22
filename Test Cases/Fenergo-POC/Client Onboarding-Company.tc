@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Client Onboarding-Company</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>6a002832-ab77-4d64-92d5-75b7a8af92a5</testCaseGuid>
+   <testCaseGuid>23b72b76-6b03-4dbd-9bc5-081cf282b6d1</testCaseGuid>
 </TestCaseEntity>
