@@ -1,3 +1,34 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_vistra-sdlc-uat - Fenergo/Legal Entity Name",
+      "brokenLocator": "//input[@id\u003d\u0027fenx-18163\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027single-spa-application:@fenx/ui-journey\u0027]/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/Legal Entity Name_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_vistra-sdlc-uat - Fenergo/Role Type",
+      "brokenLocator": "//input[@id\u003d\u0027fenx-59623\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027single-spa-application:@fenx/ui-journey\u0027]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/Role Type_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_vistra-sdlc-uat - Fenergo/RoleType_DropdownArrow",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "[data-testid\u003d\"fen-dropdown-role-type\"] \u003e\u003e internal:label\u003d\"Open\"i",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/RoleType_DropdownArrow_SMART_LOCATOR.png"
+    }
+  ]
 }
