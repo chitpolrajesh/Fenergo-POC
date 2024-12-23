@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search</name>
+   <tag></tag>
+   <elementGuidId>86679ed1-8f14-49cf-9cb8-7d71fffede04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Search' or . = 'Search')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jou130.jou131 > div.jou66</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Search$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5486f6ad-b1f5-4b4a-808e-459ef2d294b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jou66</value>
+      <webElementGuid>976aa1ca-d134-4502-bf28-5018815b162c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>fen-button-bar</value>
+      <webElementGuid>11a105c3-1bf2-4764-80a5-b64910011270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>71f545b8-f5fc-45fd-be98-b65e1c37ea59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou26&quot;]/div[@class=&quot;jou29 jou30&quot;]/div[@class=&quot;jou130 jou131&quot;]/div[@class=&quot;jou66&quot;]</value>
+      <webElementGuid>091c0b1b-f1b4-449e-b027-36c1e5c25795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>67b4a552-6ad3-4067-8d8c-e913c8c2adec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[1]</value>
+      <webElementGuid>3035ad54-c83d-4ca0-aa5c-b05d05acba87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>ff547d34-44f5-4f99-a2db-5b7dcd3ce039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>2bdfe603-2b7c-49a9-a2c9-0ffc90d9f708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

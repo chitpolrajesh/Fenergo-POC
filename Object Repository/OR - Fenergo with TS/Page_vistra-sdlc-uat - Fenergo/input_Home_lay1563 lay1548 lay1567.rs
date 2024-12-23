@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Home_lay1563 lay1548 lay1567</name>
+   <tag></tag>
+   <elementGuidId>6b425d48-b284-4bf3-b00f-90e041c1e64c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.lay1563.lay1548.lay1567</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;search-box-input&quot;] >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>151dcb15-19b7-413c-af98-186d199b6e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0da50b8c-74a5-40d4-a060-f4b27f968f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>72e418ac-cac4-49c5-ad8a-88b8e6bf63a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lay1563 lay1548 lay1567</value>
+      <webElementGuid>44ae3720-5ce8-4add-abee-b18e3512f9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/layout&quot;)/div[2]/header[@class=&quot;lay1445 lay1434 lay1435 lay1441 lay1432 mui-fixed lay1448&quot;]/div[@class=&quot;lay1430 lay1431&quot;]/div[@class=&quot;lay1534 lay1533&quot;]/div[@class=&quot;lay1552 lay1538 lay1529 lay1553 lay1539 lay1556&quot;]/input[@class=&quot;lay1563 lay1548 lay1567&quot;]</value>
+      <webElementGuid>74d1d456-c819-47bb-ad93-8d0b4a1b9396</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>fee031bc-b7cc-4811-a11d-05d0099de893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>80a957a2-80df-4b97-b746-ab16f732d0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/layout']/div[2]/header/div[3]/div/div/input</value>
+      <webElementGuid>f1e69f31-cb6e-4ae4-bac6-49d3efe3c596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a962c87a-5e6a-4d85-a0a9-ac0c6aa25d51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

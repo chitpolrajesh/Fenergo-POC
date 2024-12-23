@@ -19,10 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.setText(findTestObject('Page_vistra-sdlc-uat - Fenergo/Legal Entity Name'), 'RR Enterprise')
 
-WebUI.click(findTestObject('Page_vistra-sdlc-uat - Fenergo/RoleType_DropdownArrow'))
+not_run: WebUI.click(findTestObject('Page_vistra-sdlc-uat - Fenergo/RoleType_DropdownArrow'))
 
-WebUI.selectOptionByValue(findTestObject('Page_vistra-sdlc-uat - Fenergo/Role Type', [('variable') : 'Client']), 'Client', 
-    false)
+WebUI.selectOptionByValue(findTestObject('Page_vistra-sdlc-uat - Fenergo/Role Type', [('variable') : 'Client', ('variable_0') : 'Client Entity']), 
+    'Client', false)
 
 WebUI.enableSmartWait()
 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>8589cf6b-5951-4eaf-89c4-65bfba80e2cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '​' or . = '​')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jou180.jou165.jou217.jou203.jou207.jou186.jou171.jou190.jou181.jou185.jou170.jou187.jou172</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-dropdown-role-type&quot;] div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b1bd657-8b45-48a1-8dd6-96a8d77f98bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jou180 jou165 jou217 jou203 jou207 jou186 jou171 jou190 jou181 jou185 jou170 jou187 jou172</value>
+      <webElementGuid>1f7a05d2-9ccd-4bce-ad78-bbb9438783a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>d5794667-e45b-4db4-9aea-7a3a3651b56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou26&quot;]/div[@class=&quot;jou29 jou30&quot;]/div[@class=&quot;jou130 jou131&quot;]/div[1]/div[@class=&quot;jou2030&quot;]/div[@class=&quot;jou210 jou202 jou211 jou216 jou215&quot;]/div[1]/div[@class=&quot;jou161 jou160 jou163 jou164&quot;]/div[@class=&quot;jou180 jou165 jou217 jou203 jou207 jou186 jou171 jou190 jou181 jou185 jou170 jou187 jou172&quot;]</value>
+      <webElementGuid>6b961543-d328-4c5d-a3e5-4b2998164ece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​' or . = '​')]</value>
+      <webElementGuid>d7a6871d-314a-4673-8d6d-1fa380ae06c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[5]</value>
+      <webElementGuid>01f3efc9-d6f6-4623-b635-5b9a29f3a0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>32855b09-38e0-4118-b2b6-f6fecbac73f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>26bb0d97-03a2-4e96-83ae-ac4543ad3173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

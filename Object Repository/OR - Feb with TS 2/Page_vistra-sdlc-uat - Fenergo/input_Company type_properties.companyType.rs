@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Company Type</name>
+   <name>input_Company type_properties.companyType</name>
    <tag></tag>
-   <elementGuidId>6d30a32f-6902-42ef-b83b-4c6adb57661d</elementGuidId>
+   <elementGuidId>792719a1-3bbe-4a26-958c-24f374f62a19</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#fenx-41983</value>
+         <key>XPATH</key>
+         <value>//input[@name = 'properties.companyType' and @placeholder = ' - select value -' and @type = 'text']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='fenx-41983']</value>
+         <key>CSS</key>
+         <value>#fenx-69492</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;fen-dropdown-company-type&quot;] >> internal:attr=[placeholder=&quot; - select value -&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot; - select value -&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>701d9741-5d75-4555-85df-7b2ab54840c8</webElementGuid>
+      <webElementGuid>1644cd83-a124-4dcd-a79b-cafd7f1caf15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4057436f-e4ce-4b47-9781-e1e902f6da41</webElementGuid>
+      <webElementGuid>87eb1e31-34d0-477f-9d05-514339a4cc45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bbb3d9a1-53f8-4b75-9197-f50c70770d2f</webElementGuid>
+      <webElementGuid>05d6bff6-a5c6-4869-970d-d556886313a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>properties.companyType</value>
-      <webElementGuid>c02f161d-adc0-42e0-a072-5501f5d5b2e8</webElementGuid>
+      <webElementGuid>f110b7d6-c855-4c43-85da-cc29e1653d4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value> - select value -</value>
-      <webElementGuid>55ad3ec9-e601-482b-ab3e-0b5e1d70c747</webElementGuid>
+      <webElementGuid>c29ad20c-6293-499a-a43e-c54c3fe53476</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>898fd448-dec2-42aa-b48c-1b6c76dbdc91</webElementGuid>
+      <webElementGuid>2fa18dec-84ff-452b-8bc4-f92ba3c69c2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou191 jou175 jou218 jou219 jou196 jou179 jou192 jou176</value>
-      <webElementGuid>03ebd986-b24d-499c-a2ea-d18086cf0b69</webElementGuid>
+      <webElementGuid>3dcce060-67e9-4859-89be-183259ca5d9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>both</value>
-      <webElementGuid>7c5a9346-7424-457e-8a4f-7422fc7849a9</webElementGuid>
+      <webElementGuid>8282bb67-e10c-4702-88ec-65d2f4e002e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>339fcefe-65f0-483e-908f-03e5431d06f5</webElementGuid>
+      <webElementGuid>d6731011-91df-4cc2-88b7-2b16ca240fe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,47 +101,55 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>56fc1ee6-9cb0-4f69-b381-df4b6605e861</webElementGuid>
+      <webElementGuid>691a4c35-a501-4eda-8d98-6e928795f0e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>fenx-41983</value>
-      <webElementGuid>b07bc3cf-59cb-49cf-868d-a5cbb3e20e34</webElementGuid>
+      <value>fenx-69492</value>
+      <webElementGuid>4ff126ca-7bb2-461d-8d81-aec186bb7e4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>fenx-41983-popup</value>
-      <webElementGuid>12c7d163-2e5b-43d4-9d96-21162557e51e</webElementGuid>
+      <value>fenx-69492-popup</value>
+      <webElementGuid>6fd9bf0f-e518-4a26-b2d3-076721d3abc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>fenx-41983-option-0</value>
-      <webElementGuid>b6d4588d-eebc-4d0c-9a7c-56e1a55a9f7e</webElementGuid>
+      <value>fenx-69492-option-0</value>
+      <webElementGuid>4eecf332-758f-4f5c-9bc6-242a388e1ea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fenx-41983&quot;)</value>
-      <webElementGuid>9467ad5d-04b9-4dd2-b51b-7dfa7146ccaa</webElementGuid>
+      <value>id(&quot;fenx-69492&quot;)</value>
+      <webElementGuid>962b55ef-349e-453d-8a67-4a8375e180d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'properties.companyType' and @placeholder = ' - select value -' and @type = 'text']</value>
+      <webElementGuid>8db4b058-33b6-4742-89d1-cb2c1bf117f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='fenx-41983']</value>
-      <webElementGuid>3256072e-490f-4e2b-80e0-ad388816310f</webElementGuid>
+      <value>//input[@id='fenx-69492']</value>
+      <webElementGuid>00b08e90-0c27-4686-90af-a51f26b02004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[4]/div/div[2]/div/input</value>
-      <webElementGuid>394e6176-2244-4f72-99ee-8ec1364d8cc4</webElementGuid>
+      <webElementGuid>97782872-8355-4f6f-9a14-e049496ab25b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,14 +165,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[2]/div/input</value>
-      <webElementGuid>62f1027c-397b-441c-94a5-74e509e8b690</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@name = 'properties.companyType' and @placeholder = ' - select value -' and @type = 'text' and @id = 'fenx-41983']</value>
-      <webElementGuid>cf73e8af-0156-48b7-b2a2-340ebcedc2e7</webElementGuid>
+      <webElementGuid>0e407d6a-2030-4da4-a5d9-4f47696cabee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
