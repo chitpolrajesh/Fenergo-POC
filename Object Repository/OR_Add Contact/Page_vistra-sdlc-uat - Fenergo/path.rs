@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>b323f444-8fb8-4f32-b768-8fd7bc4a6436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entitydata178.entitydata163.entitydata123.entitydata109.entitydata357.entitydata188.entitydata179.entitydata183.entitydata168.entitydata185.entitydata170 > div.entitydata126 > button.entitydata205.entitydata196.entitydata129.entitydata112 > span.entitydata204 > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-dropdown-will-the-entity-\(or-its-subsidiaries\)-be-involved-in-any-of-the-following-activities\?&quot;] >> internal:label=&quot;Open&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>1974b07c-16c7-45a9-ac13-b6a984d150b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.414 9.5h7.172a1 1 0 0 1 .707 1.707l-3.586 3.586a1 1 0 0 1-1.414 0l-3.586-3.586A1 1 0 0 1 8.414 9.5Z</value>
+      <webElementGuid>8e717bce-31d2-40e8-8f34-58148ab522ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>a6f7d6be-5942-48e0-bc25-be9657b5645e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>29337c6e-8bda-403f-9fbd-cff4e654d845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-entitydata&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;entitydata50&quot;]/div[@class=&quot;entitydata53 entitydata54&quot;]/div[@class=&quot;entitydata106&quot;]/div[@class=&quot;entitydata3936&quot;]/div[@class=&quot;entitydata116 entitydata108 entitydata117 entitydata122 entitydata121&quot;]/div[1]/div[@class=&quot;entitydata159 entitydata158 entitydata161 entitydata162&quot;]/div[@class=&quot;entitydata178 entitydata163 entitydata123 entitydata109 entitydata357 entitydata188 entitydata179 entitydata183 entitydata168 entitydata185 entitydata170&quot;]/div[@class=&quot;entitydata126&quot;]/button[@class=&quot;entitydata205 entitydata196 entitydata129 entitydata112&quot;]/span[@class=&quot;entitydata204&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>683d3294-dd81-4a9b-8545-4757e9bfe417</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

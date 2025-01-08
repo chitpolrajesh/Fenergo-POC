@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@type = 'text' and @name = 'Username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>#username</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>00099389-57db-469c-a744-f2b7624aa586</webElementGuid>
+      <webElementGuid>86a0e5b9-a20e-4bdd-922a-973556c8fff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>d23f9a0e-6c34-4285-8882-5fad0a608719</webElementGuid>
+      <webElementGuid>b6df5a74-b93c-4778-ae5c-e602539562ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8aa44c30-fa17-44ff-b68a-ddd0906d8bfc</webElementGuid>
+      <webElementGuid>17a36aa8-cbdc-4325-bc55-e907ff509234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>61a4628e-45ec-42ad-983b-1197032abcef</webElementGuid>
+      <webElementGuid>72ddcfa9-edf5-4f59-854b-fa00a206f691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Username field is required.</value>
-      <webElementGuid>0b6b7793-0bed-49f0-9162-89e795390bc5</webElementGuid>
+      <webElementGuid>9834361f-fc95-4e51-8345-da31e95b1785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>14f770f1-4448-486c-ac3c-857204fea527</webElementGuid>
+      <webElementGuid>f36b97a7-9368-4d31-b604-fe105c274733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>c65c8dcf-656e-45ca-a325-5e646367c5e3</webElementGuid>
+      <webElementGuid>67ae5bae-f76a-43ad-8ccb-291ffa126f33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'Username']</value>
+      <webElementGuid>eb29285e-9027-49f6-8347-a6bd48900518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>b6421497-2998-4274-9604-fa75281f993b</webElementGuid>
+      <webElementGuid>c6cf0b83-0d09-42c0-a930-d38f0ddb7c96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>717214ab-ac1c-4b17-8a30-bc308c978c66</webElementGuid>
+      <webElementGuid>ad318e4a-8f69-4e5e-929b-dba6baa70462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

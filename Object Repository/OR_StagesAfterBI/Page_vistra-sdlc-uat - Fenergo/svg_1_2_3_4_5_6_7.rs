@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>41da69ab-e894-49e1-b52b-bd7fc009f27f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(15) > div > div.MuiFormControl-root.MuiTextField-root.MuiFormControl-marginDense.MuiFormControl-fullWidth > div.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedEnd.MuiOutlinedInput-adornedEnd.ass10006.MuiInputBase-marginDense.MuiOutlinedInput-marginDense > div.MuiInputAdornment-root.MuiInputAdornment-positionEnd.ass10005.MuiInputAdornment-marginDense > button.MuiButtonBase-root.MuiIconButton-root > span.MuiIconButton-label > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[21]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-date-picker-other-id-1\:-issue-date&quot;] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9bf068f1-e9bf-4b53-b586-6418278aca2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1.5rem</value>
+      <webElementGuid>695440bf-3b59-4334-98bb-a01f44378a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1.5rem</value>
+      <webElementGuid>9cc23ac3-a7f5-44d9-bacb-f3a2df05403c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>3addc79a-d27d-40ca-9eab-f71ace8e431e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>82f7f369-3e0b-4aa0-ae97-681d2cd41d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>2a8aa7ac-0a98-42ef-bb9e-4520047f79c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass9585&quot;]/div[@class=&quot;ass9582&quot;]/div[@class=&quot;ass9584&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass9881 Mui-expanded ass9886 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass9885&quot;]/div[@class=&quot;ass9908&quot;]/div[1]/div[@class=&quot;ass12999&quot;]/div[15]/div[1]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-marginDense MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd ass10006 MuiInputBase-marginDense MuiOutlinedInput-marginDense&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd ass10005 MuiInputAdornment-marginDense&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]</value>
+      <webElementGuid>1b67cb73-cce6-4b51-92f9-933ebf3526b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[21]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7d5dc3ae-61fb-494f-b32a-32a339ca2760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[22]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>6d6674f2-4f14-49c9-9f07-52521f5f602a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other ID 1: Expiry Date'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dca0ade9-7f27-460d-9b64-ee9adf9206b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

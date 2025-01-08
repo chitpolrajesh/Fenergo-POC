@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>2e7bdc1b-a73f-47a1-8983-01b119f839cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entitydata154.entitydata139.entitydata99.entitydata85.entitydata2276.entitydata164.entitydata155.entitydata159.entitydata144.entitydata161.entitydata146</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '​' or . = '​')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-dropdown-address-type&quot;] div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84553a92-de5b-4f20-80b0-c65a530bf3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entitydata154 entitydata139 entitydata99 entitydata85 entitydata2276 entitydata164 entitydata155 entitydata159 entitydata144 entitydata161 entitydata146</value>
+      <webElementGuid>3b55664c-a40b-4b8f-b81e-aceba524d4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>8366aa97-96f6-451b-b9e5-f19f9d3737dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;entitydata2091&quot;]/div[@class=&quot;entitydata2094 entitydata2092&quot;]/div[@class=&quot;entitydata2108 entitydata2095 entitydata2087 entitydata2096 entitydata2101 entitydata2104 entitydata2135 entitydata2109&quot;]/div[@class=&quot;entitydata2086&quot;]/div[@class=&quot;entitydata2079&quot;]/div[1]/div[@class=&quot;entitydata2380&quot;]/div[@class=&quot;entitydata92 entitydata84 entitydata93 entitydata98 entitydata97&quot;]/div[1]/div[@class=&quot;entitydata135 entitydata134 entitydata137 entitydata138&quot;]/div[@class=&quot;entitydata154 entitydata139 entitydata99 entitydata85 entitydata2276 entitydata164 entitydata155 entitydata159 entitydata144 entitydata161 entitydata146&quot;]</value>
+      <webElementGuid>83b54ad8-d745-47d8-99b5-4e66ac4564dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​' or . = '​')]</value>
+      <webElementGuid>2b5736f0-8d18-488f-a670-ad1dae720506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[2]/following::div[9]</value>
+      <webElementGuid>8de6fea5-7903-4cf5-98c3-723f9bdec7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>82617b44-3e09-4664-95fa-d1bfefb4c8d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Client Type_ass494</name>
+   <tag></tag>
+   <elementGuidId>2a244e00-5883-4bbd-8a4d-1556b5c65b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.MuiTableCell-root.MuiTableCell-body.ass1805.MuiTableCell-sizeSmall > div.MuiButtonBase-root.MuiChip-root.ass1798.MuiChip-clickable > span.MuiButtonBase-root.MuiIconButton-root.ass491.MuiRadio-root.ass1800.MuiRadio-colorSecondary.MuiChip-icon.MuiIconButton-colorSecondary > span.MuiIconButton-label > input.ass494</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'radio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Link Chaitrali Gajjar Exact Match Individual Gajjar Chaitrali&quot;i] >> internal:role=radio</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7e6fcffd-4499-4177-8778-569bdc8d2264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ass494</value>
+      <webElementGuid>464ae159-c0e0-475b-a92a-f3eb39489318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>0e7cd511-42a0-4189-ac1e-33407c03db24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass431&quot;]/div[@class=&quot;ass428&quot;]/div[@class=&quot;ass430&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass843 Mui-expanded ass848 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass847&quot;]/div[@class=&quot;ass1794&quot;]/div[@class=&quot;MuiTableContainer-root ass1793&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root ass80 ass1801 MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body ass1805 MuiTableCell-sizeSmall&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root ass1798 MuiChip-clickable&quot;]/span[@class=&quot;MuiButtonBase-root MuiIconButton-root ass491 MuiRadio-root ass1800 MuiRadio-colorSecondary MuiChip-icon MuiIconButton-colorSecondary&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/input[@class=&quot;ass494&quot;]</value>
+      <webElementGuid>0f402c5a-c2c1-4b28-8925-2c8c19e437c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>47180453-3730-49d6-b631-7e86c26b6638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[11]</value>
+      <webElementGuid>3acf0e47-7dad-4863-9787-26f54b6635a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/span/span/input</value>
+      <webElementGuid>b9907f0e-142c-41b9-86f8-385a81603f1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

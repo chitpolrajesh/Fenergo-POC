@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use_1</name>
+   <tag></tag>
+   <elementGuidId>e8c41dc2-9830-4dde-b914-1071bf6b3582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputAdornment-root.MuiInputAdornment-positionEnd.ass10005.MuiInputAdornment-marginDense > button.MuiButtonBase-root.MuiIconButton-root > span.MuiIconButton-label > svg > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-date-picker-date-of-birth&quot;] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>fb625d72-3a53-420a-8a23-8dbfa1fad0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>85587b46-107b-4d44-9921-0e38bae6861c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#icons-selection-fields-date-picker_svg__a</value>
+      <webElementGuid>59ac0fcb-a789-449d-a158-2db8e8eb13c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>62f8b9a0-1dfa-42b7-a255-2d2b96424a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass9585&quot;]/div[@class=&quot;ass9582&quot;]/div[@class=&quot;ass9584&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass9881 Mui-expanded ass9886 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass9885&quot;]/div[@class=&quot;ass9908&quot;]/div[1]/div[@class=&quot;ass10997&quot;]/div[4]/div[1]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-marginDense MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd ass10006 MuiInputBase-marginDense MuiOutlinedInput-marginDense&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd ass10005 MuiInputAdornment-marginDense&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]/use[1]</value>
+      <webElementGuid>0ae4b66c-e9b0-49d3-b709-c04520ec2e37</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>abfb4ba1-abc6-4deb-a787-e5142dde20ef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.entitydata66.entitydata7388 > button.entitydata181.entitydata269.entitydata277.entitydata278 > span.entitydata270</value>
+         <key>XPATH</key>
+         <value>(.//*[contains(text(), 'Add Address')]//following::span[text()='Save'])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another'])[1]/following::span[2]</value>
+         <key>CSS</key>
+         <value>div.entitydata169.entitydata2602 > button.entitydata284.entitydata372.entitydata380.entitydata381 > span.entitydata373</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>021c6d8f-ab0d-42ba-bb83-583ef9c6a23c</webElementGuid>
+      <webElementGuid>d78dfbec-74d5-4234-bf2d-6bb33f2fb3fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>entitydata270</value>
-      <webElementGuid>ebd618b0-a638-48ff-aff7-834ebdfe6543</webElementGuid>
+      <value>entitydata373</value>
+      <webElementGuid>4f979c54-f260-4d06-b27c-36673b9f9396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>9c8a8354-e152-4355-acce-3de181515d52</webElementGuid>
+      <webElementGuid>6356e50f-c3b6-43d0-bcfc-3431108c301f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;entitydata7394&quot;]/div[@class=&quot;entitydata7397 entitydata7395&quot;]/div[@class=&quot;entitydata7413 entitydata7398 entitydata7390 entitydata7399 entitydata7404 entitydata7407 entitydata7440 entitydata7414&quot;]/div[@class=&quot;entitydata66 entitydata7388&quot;]/button[@class=&quot;entitydata181 entitydata269 entitydata277 entitydata278&quot;]/span[@class=&quot;entitydata270&quot;]</value>
-      <webElementGuid>f1813586-437a-4238-8638-2bb4b49f2ba3</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;entitydata2608&quot;]/div[@class=&quot;entitydata2611 entitydata2609&quot;]/div[@class=&quot;entitydata2627 entitydata2612 entitydata2604 entitydata2613 entitydata2618 entitydata2621 entitydata2654 entitydata2628&quot;]/div[@class=&quot;entitydata169 entitydata2602&quot;]/button[@class=&quot;entitydata284 entitydata372 entitydata380 entitydata381&quot;]/span[@class=&quot;entitydata373&quot;]</value>
+      <webElementGuid>1d825e2e-958d-4bae-b700-445dc030d1b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>23780d29-6170-4095-a3c0-3e7c4dadd127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another'])[1]/following::span[2]</value>
-      <webElementGuid>bc8d7d90-77f8-48f2-b466-9bfd1583976a</webElementGuid>
+      <webElementGuid>2d73bfc5-34c8-4a50-b4d5-25d2a7712665</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[31]/following::span[3]</value>
-      <webElementGuid>a9dd3af3-ef54-437c-9cc2-c2d68020d9ed</webElementGuid>
+      <webElementGuid>7f5efcfa-7c8a-477f-a98b-4227c429e457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,14 +85,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[3]/button[2]/span</value>
-      <webElementGuid>51832452-6020-436e-8826-ee3cf2f8c90c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>5fc184b2-f353-450a-b66b-4667c650fa03</webElementGuid>
+      <webElementGuid>49bbe8c4-3257-4c2c-bcf6-a99f0c30bebd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

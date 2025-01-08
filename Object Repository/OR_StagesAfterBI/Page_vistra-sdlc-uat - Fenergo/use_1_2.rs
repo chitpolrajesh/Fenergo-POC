@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use_1_2</name>
+   <tag></tag>
+   <elementGuidId>9f3ba6d3-f133-4398-aa6f-da5128165f9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(16) > div > div.MuiFormControl-root.MuiTextField-root.MuiFormControl-marginDense.MuiFormControl-fullWidth > div.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedEnd.MuiOutlinedInput-adornedEnd.ass10006.MuiInputBase-marginDense.MuiOutlinedInput-marginDense > div.MuiInputAdornment-root.MuiInputAdornment-positionEnd.ass10005.MuiInputAdornment-marginDense > button.MuiButtonBase-root.MuiIconButton-root > span.MuiIconButton-label > svg > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-date-picker-other-id-1\:-expiry-date&quot;] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>e271b7ae-64d0-402e-949e-5740a7f279d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>efc37583-a125-4144-9d0a-84370b7a848b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#icons-selection-fields-date-picker_svg__a</value>
+      <webElementGuid>dda0e7ef-79a8-4cfc-8511-6ebab2412c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>0e10c179-5b36-46c0-b291-d05f5082f474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass9585&quot;]/div[@class=&quot;ass9582&quot;]/div[@class=&quot;ass9584&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass9881 Mui-expanded ass9886 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass9885&quot;]/div[@class=&quot;ass9908&quot;]/div[1]/div[@class=&quot;ass13180&quot;]/div[16]/div[1]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-marginDense MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd ass10006 MuiInputBase-marginDense MuiOutlinedInput-marginDense&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd ass10005 MuiInputAdornment-marginDense&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]/use[1]</value>
+      <webElementGuid>cfa324ef-1811-49d1-af2a-efe5b4f00141</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

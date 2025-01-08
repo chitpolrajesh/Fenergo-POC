@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1_2</name>
+   <tag></tag>
+   <elementGuidId>4ece9f61-45b1-4ddd-b071-91c04c77d463</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputBase-root.MuiOutlinedInput-root.MuiAutocomplete-inputRoot.ass9631.ass10011.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedEnd.MuiOutlinedInput-adornedEnd.MuiInputBase-marginDense.MuiOutlinedInput-marginDense > div.MuiAutocomplete-endAdornment > button.MuiButtonBase-root.MuiIconButton-root.MuiAutocomplete-popupIndicator.ass9634 > span.MuiIconButton-label > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-dropdown-passport-provided\?&quot;] >> internal:label=&quot;Open&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>1663638e-2fdc-44ca-b34f-8b55bcf85ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.414 9.5h7.172a1 1 0 0 1 .707 1.707l-3.586 3.586a1 1 0 0 1-1.414 0l-3.586-3.586A1 1 0 0 1 8.414 9.5Z</value>
+      <webElementGuid>4a999224-c151-4719-acf8-7ff59ecd491a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>22fcb74d-bd5e-46a6-877a-5d046d456807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>b875596c-5a47-46d6-a03a-0dddbc6d1ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass9585&quot;]/div[@class=&quot;ass9582&quot;]/div[@class=&quot;ass9584&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass9881 Mui-expanded ass9886 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass9885&quot;]/div[@class=&quot;ass9908&quot;]/div[1]/div[@class=&quot;ass11785&quot;]/div[@class=&quot;MuiAutocomplete-root ass9630 MuiAutocomplete-fullWidth MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon&quot;]/div[1]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-marginDense MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiAutocomplete-inputRoot ass9631 ass10011 MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd MuiInputBase-marginDense MuiOutlinedInput-marginDense&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiAutocomplete-popupIndicator ass9634&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>86b09785-03aa-4a6e-a178-e94057e07412</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

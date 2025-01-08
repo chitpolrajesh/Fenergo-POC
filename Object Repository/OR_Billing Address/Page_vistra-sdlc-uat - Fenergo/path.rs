@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>5fa42238-f57e-494d-af1e-d6c37610941f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entitydata257.entitydata242.entitydata202.entitydata188.entitydata2800.entitydata267.entitydata258.entitydata262.entitydata247.entitydata264.entitydata249 > div.entitydata205 > button.entitydata284.entitydata275.entitydata208.entitydata191 > span.entitydata283 > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;fen-dropdown-country&quot;] >> internal:label=&quot;Open&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>ac8f7967-752d-4979-a731-3cb9ba0fb8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.414 9.5h7.172a1 1 0 0 1 .707 1.707l-3.586 3.586a1 1 0 0 1-1.414 0l-3.586-3.586A1 1 0 0 1 8.414 9.5Z</value>
+      <webElementGuid>b7832bfc-5038-4349-bf46-2b97957d9546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>e99b417b-0eaa-4e69-8507-776dbf0f80d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>04614d00-26f0-49bf-98ee-4774fae4555b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;entitydata2608&quot;]/div[@class=&quot;entitydata2611 entitydata2609&quot;]/div[@class=&quot;entitydata2627 entitydata2612 entitydata2604 entitydata2613 entitydata2618 entitydata2621 entitydata2654 entitydata2628&quot;]/div[@class=&quot;entitydata2603&quot;]/div[@class=&quot;entitydata2596&quot;]/div[1]/div[@class=&quot;entitydata3416&quot;]/div[@class=&quot;entitydata195 entitydata187 entitydata196 entitydata201 entitydata200&quot;]/div[1]/div[@class=&quot;entitydata238 entitydata237 entitydata240 entitydata241&quot;]/div[@class=&quot;entitydata257 entitydata242 entitydata202 entitydata188 entitydata2800 entitydata267 entitydata258 entitydata262 entitydata247 entitydata264 entitydata249&quot;]/div[@class=&quot;entitydata205&quot;]/button[@class=&quot;entitydata284 entitydata275 entitydata208 entitydata191&quot;]/span[@class=&quot;entitydata283&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>947f8fc7-85eb-4f2a-975d-67f5e59f4eb7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

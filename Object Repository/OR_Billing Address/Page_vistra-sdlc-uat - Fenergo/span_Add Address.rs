@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Address</name>
+   <tag></tag>
+   <elementGuidId>2ef3a731-9b20-44b2-b27a-3cc97acdd5ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.entitydata270</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Add Address' or . = 'Add Address')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fabd255-e0ab-4d89-937c-7c1fb9752640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entitydata270</value>
+      <webElementGuid>4161b122-6143-4d9e-b659-1f413a1f1a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Address</value>
+      <webElementGuid>52a3c482-95bd-45da-8759-208d6df0f2e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-entitydata&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;entitydata26&quot;]/div[@class=&quot;entitydata29 entitydata30&quot;]/div[4]/div[@class=&quot;entitydata31 entitydata265&quot;]/div[@class=&quot;entitydata66&quot;]/button[@class=&quot;entitydata181 entitydata269 entitydata274 entitydata275&quot;]/span[@class=&quot;entitydata270&quot;]</value>
+      <webElementGuid>0ed6614f-2e57-4aa7-8224-41700eef989e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Address' or . = 'Add Address')]</value>
+      <webElementGuid>7e8c47c8-323d-4fd6-958c-76c127eced60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::span[1]</value>
+      <webElementGuid>c2cb8107-ded6-476c-9ef8-ef8a3c35dabd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[1]/following::span[1]</value>
+      <webElementGuid>558f584d-f804-491f-8b92-c2760ebc7da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::span[6]</value>
+      <webElementGuid>79a4bc4b-d675-4909-bd9d-e07b7639e445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Address']/parent::*</value>
+      <webElementGuid>296d5dd0-3c75-4b17-a04f-a2c460a969a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-entitydata']/div/div/div/div/div/div[2]/div[4]/div/div[2]/button/span</value>
+      <webElementGuid>b9960056-98c3-425e-b4de-2eb5ac8a8bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/button/span</value>
+      <webElementGuid>6ce6103c-892e-4d73-b79c-69be78ab1c88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

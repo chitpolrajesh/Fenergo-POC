@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_10</name>
+   <tag></tag>
+   <elementGuidId>ae6a4de6-b684-4fc8-a0e9-3b28b9547d4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = '10' or . = '10')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;10&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>64ee8848-8681-497b-baa9-e6f6a948ae40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 MuiTypography-colorInherit</value>
+      <webElementGuid>287db8c8-31e2-4647-bef6-56e88c695960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>f152e8e7-7d7e-4a84-8096-7649f2a3bc4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root&quot;]/div[@class=&quot;MuiPaper-root MuiPopover-paper MuiPaper-elevation8 MuiPaper-rounded&quot;]/div[@class=&quot;MuiPickersBasePicker-container&quot;]/div[@class=&quot;MuiPickersBasePicker-pickerView&quot;]/div[@class=&quot;MuiPickersSlideTransition-transitionContainer MuiPickersCalendar-transitionContainer&quot;]/div[1]/div[@class=&quot;MuiPickersCalendar-week&quot;]/div[2]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiPickersDay-day&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 MuiTypography-colorInherit&quot;]</value>
+      <webElementGuid>34452265-34d2-482a-a595-c7c98d10792e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '10' or . = '10')]</value>
+      <webElementGuid>89de4891-56bf-4461-9425-38a77940da22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::p[16]</value>
+      <webElementGuid>34f3cace-74e2-417a-94a8-0e169f766d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::p[16]</value>
+      <webElementGuid>905d3ff5-473e-4a8e-a0f4-448b3abf3745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10']/parent::*</value>
+      <webElementGuid>9d786ff6-c90e-4f2e-8043-8216162260bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button/span/p</value>
+      <webElementGuid>423113b1-8b63-47ee-9f22-5b59632e8f0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>74afac7f-4803-4d4e-aa58-52bd6e0f72d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;expand row Screening Evidence* Approval Pending ES_Filing_Data_File_2050300 browse-for-files create-virtual-document edit doc metadata modal open requirement status modal&quot;i] >> [data-testid=&quot;open-doc-requirement-modal&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>27e33765-d7d5-4609-ab35-89b0ecec5b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M12 3a9 9 0 1 1 0 18 9 9 0 0 1 0-18Zm4.714 6.24a1.25 1.25 0 0 0-1.768 0l-4.42 4.42-1.472-1.473a1.25 1.25 0 0 0-1.768 1.768l2.357 2.357a1.25 1.25 0 0 0 1.768 0l5.303-5.303a1.25 1.25 0 0 0 0-1.768Z</value>
+      <webElementGuid>0beb7d41-82be-4814-8115-247c8850385e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>4abce69e-5ae7-4da2-a9c5-76d6aea0bee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>69b826ee-06dc-4358-9d5f-2db0312c7197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass35951&quot;]/div[@class=&quot;ass35948&quot;]/div[@class=&quot;ass35950&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass36011 Mui-expanded ass36016 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass36015&quot;]/div[@class=&quot;ass37988&quot;]/div[@class=&quot;MuiTableContainer-root ass37987&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root ass36124 ass36117 MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body ass36121 MuiTableCell-sizeSmall&quot;]/div[@class=&quot;ass36161&quot;]/div[@class=&quot;ass36163&quot;]/div[1]/div[@class=&quot;hoverableActions ass36163&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root ass36176&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>2dac8d8b-5588-4411-bd00-0f9467e59b5f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

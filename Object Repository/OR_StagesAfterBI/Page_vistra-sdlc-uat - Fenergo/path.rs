@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>2725e475-5ad0-4087-9d84-9248352e91cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeSmall > span.MuiIconButton-label > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;addButton&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>730c6fcf-034e-4fcb-b352-e03a7e870737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M12 3a1.5 1.5 0 0 1 1.5 1.5v5.999l6 .001a1.5 1.5 0 0 1 0 3h-6v6a1.5 1.5 0 0 1-3 0v-6h-6a1.5 1.5 0 0 1 0-3h6v-6A1.5 1.5 0 0 1 12 3Z</value>
+      <webElementGuid>102df68f-3d8c-439f-acb1-823305841238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#557391</value>
+      <webElementGuid>f96a403d-15bf-4120-a367-85605031d196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>aaf4c94c-550d-40e9-8202-3bd09be5bdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-association&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;ass26&quot;]/div[@class=&quot;ass29 ass30&quot;]/div[@class=&quot;MuiTableContainer-root ass40&quot;]/div[1]/div[1]/div[@class=&quot;ass39&quot;]/div[1]/tr[@class=&quot;MuiTableRow-root ass80 MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root ass421 MuiTableCell-alignRight&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>f8461aef-a904-41ca-a2c3-03df875c8a24</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -29,6 +29,16 @@
       "proposedLocatorMethod": "SMART_LOCATOR",
       "recoveryMethod": "SMART_LOCATOR",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/RoleType_DropdownArrow_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_vistra-sdlc-uat - Fenergo/Date of Incorporation",
+      "brokenLocator": "[data-testid\u003d\"fenBase-modal-close\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027​\u0027])[18]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/Date of Incorporation_neighbor.png"
     }
   ]
 }

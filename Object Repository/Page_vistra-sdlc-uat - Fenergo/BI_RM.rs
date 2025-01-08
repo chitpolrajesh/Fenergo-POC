@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h6.jou4198.jou4422.jou4210</value>
+         <value>h6.jou3883.jou4107.jou3895</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/h6</value>
+         <value>//h6[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>div >> internal:has-text=/^Business InformationRelationship Manager$/ >> h6</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>d0442692-4501-400d-81a1-3f110c27073c</webElementGuid>
+      <webElementGuid>b85638d4-55b0-4579-9d38-d5645d0af88b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>jou4198 jou4422 jou4210</value>
-      <webElementGuid>b53022f3-4fed-4484-a981-d33cb41369eb</webElementGuid>
+      <value>jou3883 jou4107 jou3895</value>
+      <webElementGuid>b6600bac-6d27-40eb-9745-03bad48a7adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Relationship Manager</value>
-      <webElementGuid>9d5efb96-e873-4c43-842f-3d6601c9d061</webElementGuid>
+      <webElementGuid>d56cbdd2-19e7-443f-9f8b-628860f80ae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou4189 jou4188&quot;]/div[@class=&quot;jou4191 jou4193&quot;]/div[@class=&quot;jou4186&quot;]/div[@class=&quot;jou4365&quot;]/div[@class=&quot;jou4369 jou4370&quot;]/div[1]/div[@class=&quot;jou4416 jou4415 jou4410&quot;]/div[@class=&quot;jou4411&quot;]/div[@class=&quot;jou4418&quot;]/div[@class=&quot;jou4419&quot;]/h6[@class=&quot;jou4198 jou4422 jou4210&quot;]</value>
-      <webElementGuid>60f405fc-339e-4e41-909e-800688835f6f</webElementGuid>
+      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou3874 jou3873&quot;]/div[@class=&quot;jou3876 jou3878&quot;]/div[@class=&quot;jou3871&quot;]/div[@class=&quot;jou4050&quot;]/div[@class=&quot;jou4054 jou4055&quot;]/div[1]/div[@class=&quot;jou4101 jou4100 jou4095&quot;]/div[@class=&quot;jou4096&quot;]/div[@class=&quot;jou4103&quot;]/div[@class=&quot;jou4104&quot;]/h6[@class=&quot;jou3883 jou4107 jou3895&quot;]</value>
+      <webElementGuid>ffffae72-a0e8-408f-9524-ea33a74cf47a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/h6</value>
-      <webElementGuid>34427661-a557-4f1b-af6c-9e23ca2525fa</webElementGuid>
+      <value>//h6[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
+      <webElementGuid>902d58ba-cdd3-4947-9d92-9cf7a14fc344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Information'])[1]/following::h6[1]</value>
-      <webElementGuid>8e097832-1ab5-4a70-9b07-39c30a6ca47c</webElementGuid>
+      <webElementGuid>e7db01ee-b80d-49fd-9fe9-5fd75d666649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture Request Details'])[1]/following::h6[1]</value>
-      <webElementGuid>c7580cc8-e23b-4b82-8a17-e177062643bd</webElementGuid>
+      <webElementGuid>17f5d4f0-bedc-46eb-9dd2-84e3f588234b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Portal User'])[1]/preceding::h6[1]</value>
-      <webElementGuid>7c99fcaf-8bf0-4e22-8f1e-f1203177cbbf</webElementGuid>
+      <webElementGuid>271def67-50c2-4b34-b96c-9557be0c8728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Manager'])[2]/preceding::h6[1]</value>
-      <webElementGuid>dda0d5b0-895e-496a-acf6-4e20b493111d</webElementGuid>
+      <webElementGuid>9f2a57d9-eb92-42f5-b453-2aad9e9a0c89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Relationship Manager']/parent::*</value>
-      <webElementGuid>9b06b9d0-d8bf-481c-bd8c-fdfbbf7a7d3e</webElementGuid>
+      <webElementGuid>bcfeefc3-3d34-4f12-9945-946b97033db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/h6</value>
+      <webElementGuid>8f9eb3fa-a133-47ab-992c-cd1c615992d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,14 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/h6</value>
-      <webElementGuid>7ed9e632-f1a8-4b27-b004-d29cc3c98d49</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//h6[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
-      <webElementGuid>e30b374c-ba81-4aa1-a642-6c0b2087680a</webElementGuid>
+      <webElementGuid>80d0e11c-2718-46aa-9849-e016c8fd0e75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

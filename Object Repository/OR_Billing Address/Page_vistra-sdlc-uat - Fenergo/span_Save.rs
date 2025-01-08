@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>a9b0a50d-dea1-4795-9cf4-cf36290bacfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.entitydata66.entitydata2496 > button.entitydata181.entitydata269.entitydata277.entitydata278 > span.entitydata270</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;data-group-collection-modal-save-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bd0622e-af05-4712-a15e-c1532cad0c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entitydata270</value>
+      <webElementGuid>c5c9b3ec-cccc-4c73-86ce-a11c1bfb4557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>8efbfc4d-da6d-47a8-a88f-a9c9f8d26fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;entitydata2502&quot;]/div[@class=&quot;entitydata2505 entitydata2503&quot;]/div[@class=&quot;entitydata2519 entitydata2506 entitydata2498 entitydata2507 entitydata2512 entitydata2515 entitydata2546 entitydata2520&quot;]/div[@class=&quot;entitydata66 entitydata2496&quot;]/button[@class=&quot;entitydata181 entitydata269 entitydata277 entitydata278&quot;]/span[@class=&quot;entitydata270&quot;]</value>
+      <webElementGuid>b4011ca3-a8ba-43a2-80eb-0d75e9ee8daa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>b2a70e19-8f39-49e6-bc41-d1a49c4d1594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another'])[1]/following::span[2]</value>
+      <webElementGuid>724fb016-1afa-4d67-8164-6523623701a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[31]/following::span[3]</value>
+      <webElementGuid>f1659696-c6ba-421d-86ef-ef70a3f502a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/button[2]/span</value>
+      <webElementGuid>72817cce-f46d-4f29-9a30-07ff4e40c0b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

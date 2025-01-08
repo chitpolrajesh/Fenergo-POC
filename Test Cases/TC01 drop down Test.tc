@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC01 drop down Test</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ecf8aa5a-9225-49ae-8ba5-5c5042b7109d</testCaseGuid>
-</TestCaseEntity>

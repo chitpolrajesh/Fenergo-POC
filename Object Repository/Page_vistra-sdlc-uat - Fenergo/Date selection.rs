@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::p[25]</value>
+         <value>//p[(text() = '19' or . = '19')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>internal:role=button[name=&quot;19&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c107fecc-619a-4c94-b463-0b73c29b36c0</webElementGuid>
+      <webElementGuid>57834d5a-c548-4210-8e08-305ad4914fa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>entitydata34 entitydata35 entitydata56</value>
-      <webElementGuid>4cf0c7a3-45ae-4cff-9bd6-d6d212e2935a</webElementGuid>
+      <webElementGuid>7a0b7c35-7116-4437-838a-2404c205011a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,31 @@
       <name>text</name>
       <type>Main</type>
       <value>19</value>
-      <webElementGuid>9e0777a8-bb7e-46e9-abf2-a709c6eeaf76</webElementGuid>
+      <webElementGuid>6ee236ef-605e-4b4c-b36d-6e7f18dc717d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;entitydata261&quot;]/div[@class=&quot;entitydata2615 entitydata262 entitydata2626 entitydata2616&quot;]/div[@class=&quot;entitydata2643&quot;]/div[@class=&quot;entitydata2645&quot;]/div[@class=&quot;entitydata2667 entitydata2659&quot;]/div[1]/div[@class=&quot;entitydata2661&quot;]/div[4]/button[@class=&quot;entitydata181 entitydata172 entitydata2674&quot;]/span[@class=&quot;entitydata180&quot;]/p[@class=&quot;entitydata34 entitydata35 entitydata56&quot;]</value>
-      <webElementGuid>8d4aa022-3fa4-44aa-a9a6-673bf14698e2</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;entitydata261&quot;]/div[@class=&quot;entitydata1947 entitydata262 entitydata1958 entitydata1948&quot;]/div[@class=&quot;entitydata1975&quot;]/div[@class=&quot;entitydata1977&quot;]/div[@class=&quot;entitydata1999 entitydata1991&quot;]/div[1]/div[@class=&quot;entitydata1993&quot;]/div[4]/button[@class=&quot;entitydata181 entitydata172 entitydata2006&quot;]/span[@class=&quot;entitydata180&quot;]/p[@class=&quot;entitydata34 entitydata35 entitydata56&quot;]</value>
+      <webElementGuid>21702351-4a5c-4a50-857c-d020b346bf6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '19' or . = '19')]</value>
+      <webElementGuid>8fdcf7da-1619-4539-b420-319e689c0833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::p[25]</value>
-      <webElementGuid>5ee1629a-6537-44ec-ab99-b9276b52a341</webElementGuid>
+      <webElementGuid>2199502d-b3ee-4bed-89fc-083e13fa0412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::p[25]</value>
-      <webElementGuid>ad1c8cf9-5ef3-41da-bfc8-e549713533dd</webElementGuid>
+      <webElementGuid>f999d6e7-e8d9-40f9-a741-95a957813300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='19']/parent::*</value>
-      <webElementGuid>c6611813-a2d9-4fc8-b35a-e981d4ebff92</webElementGuid>
+      <webElementGuid>93fa8271-587a-41f7-89c3-752459d2d0bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,14 +93,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[4]/button/span/p</value>
-      <webElementGuid>e6aa3db2-b682-4efa-95a4-5e2858c7ae43</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p[(text() = '19' or . = '19')]</value>
-      <webElementGuid>fd7af789-2278-4602-ab96-fe5ffe06b4e1</webElementGuid>
+      <webElementGuid>676a747c-cd74-4242-bc05-1f75e5820b0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

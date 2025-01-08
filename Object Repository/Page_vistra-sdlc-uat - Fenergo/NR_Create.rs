@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.jou66.jou3761 > button.jou99.jou256.jou264.jou265 > span.jou257</value>
+         <value>div.jou66.jou3437 > button.jou99.jou256.jou264.jou265 > span.jou257</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[3]/div[2]/button/span</value>
+         <value>//span[(text() = 'Create' or . = 'Create')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>[data-testid=&quot;create-button&quot;]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3151fea6-9867-4bdd-bd7a-5a58030f9552</webElementGuid>
+      <webElementGuid>67fa712c-0038-4b4d-b32a-f0b5d6d8f594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou257</value>
-      <webElementGuid>e2500520-16ab-4d5c-8b7c-e22e77f9d0a6</webElementGuid>
+      <webElementGuid>523f6264-14f1-44f0-9c37-3b040aff850b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,63 @@
       <name>text</name>
       <type>Main</type>
       <value>Create</value>
-      <webElementGuid>92fcd232-f7bb-4c9c-965f-85360d380ee6</webElementGuid>
+      <webElementGuid>dc1cb438-f121-4012-8a24-f7bf911095e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou26&quot;]/div[@class=&quot;jou29 jou30&quot;]/div[3]/div[@class=&quot;jou66 jou3761&quot;]/button[@class=&quot;jou99 jou256 jou264 jou265&quot;]/span[@class=&quot;jou257&quot;]</value>
-      <webElementGuid>f9a15c6e-99c8-493c-a958-e1634715165e</webElementGuid>
+      <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou26&quot;]/div[@class=&quot;jou29 jou30&quot;]/div[3]/div[@class=&quot;jou66 jou3437&quot;]/button[@class=&quot;jou99 jou256 jou264 jou265&quot;]/span[@class=&quot;jou257&quot;]</value>
+      <webElementGuid>98d2548b-a8b3-47ad-8440-a044d1f8194c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>cfd115b2-545f-45dc-9dbc-ade3eef4ca26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End User Client'])[2]/following::span[3]</value>
+      <webElementGuid>d4efa823-d2f0-4b2d-8670-4c1d6866337f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[3]/following::span[3]</value>
+      <webElementGuid>d08895c4-f588-460b-8972-e2e4fd6d5798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>a366d015-b2b1-4af0-9e69-0dac2b7b6e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[3]/div[2]/button/span</value>
-      <webElementGuid>cb521669-7cbe-4918-96e7-ec607ca85168</webElementGuid>
+      <webElementGuid>5add9198-0485-4956-a4a6-0a1c7a38184d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/button/span</value>
+      <webElementGuid>31798d7a-366d-4656-879f-9477b22a3b17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,29 +118,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[2]/following::span[3]</value>
       <webElementGuid>8c3b43d0-4bbf-4a15-b827-2f89da90a45b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
-      <webElementGuid>99cec88c-5aa5-4573-9a37-21c5cf3e90e1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[3]/div[2]/button/span</value>
-      <webElementGuid>a40abf44-5a54-4fc3-b2eb-566064b87d80</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>5d434573-4fb4-4ea1-a61e-6f02d878ec2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
