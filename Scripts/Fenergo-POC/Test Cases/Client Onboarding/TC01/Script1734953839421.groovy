@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/OR - Feb with TS 2/Page_Fenergo/bu
 WebUI.click(findTestObject('Object Repository/OR - Feb with TS 2/Page_vistra-sdlc-uat - Fenergo/svg'))
 
 WebUI.setText(findTestObject('Object Repository/OR - Feb with TS 2/Page_vistra-sdlc-uat - Fenergo/input_Legal Entity Name_properties.legalEntityName'), 
-    'POC CA-RR Enterprise')
+    'POC CA-MR2 Enterprise')
 
 WebUI.click(findTestObject('Object Repository/OR - Feb with TS 2/Page_vistra-sdlc-uat - Fenergo/input_Role Type_properties.roleType'))
 
