@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Private Company</name>
+   <name>li_End User Client</name>
    <tag></tag>
-   <elementGuidId>816360da-2568-4b9e-a6f4-cbeee83352e7</elementGuidId>
+   <elementGuidId>1bf1291c-169d-4b49-83a5-f693688b97fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#fenx-95158-option-0</value>
+         <value>#fenx-11793-option-0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[(text() = 'Private Company' or . = 'Private Company')]</value>
+         <value>//li[(text() = 'End User Client' or . = 'End User Client')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=option[name=&quot;Private Company&quot;i]</value>
+         <value>internal:role=option[name=&quot;End User Client&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>33ecc728-ef49-4d29-896e-3602062a3cf6</webElementGuid>
+      <webElementGuid>65cdd98c-1142-476e-a4a5-f0bbb00e5878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>32679704-4fb8-4bbb-82d1-a9d6126561f1</webElementGuid>
+      <webElementGuid>9495b985-08e9-4ae8-9e5a-b6ca0c657f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>d5bd6da1-8996-40fe-9aac-515a6ad20615</webElementGuid>
+      <webElementGuid>e6176428-23ac-45b6-93a1-874b65aef678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>fenx-95158-option-0</value>
-      <webElementGuid>c09eae8d-dc97-4af6-b892-f708ff4fad01</webElementGuid>
+      <value>fenx-11793-option-0</value>
+      <webElementGuid>c309ec92-60c8-4bd4-9eea-d8b735a71c52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>45d75144-2028-4f89-88af-a08c2cdae5f5</webElementGuid>
+      <webElementGuid>bb5ddd53-d07a-4beb-9d77-7c5f52f77b40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7f585925-b9b3-4741-a49e-49374f0e7688</webElementGuid>
+      <webElementGuid>825882da-0bd2-47a8-82aa-2f00ec3061ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>da7c11f1-a1c4-4930-a91d-3e3b55a32cec</webElementGuid>
+      <webElementGuid>fec9c627-d5e1-4d3a-95ce-a4cf98b3f88d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou636</value>
-      <webElementGuid>b7a19d5c-bb3a-40ba-ac08-e98a06c6f163</webElementGuid>
+      <webElementGuid>397362b9-5231-41eb-aa38-0a88ecff12bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,31 +93,31 @@
       <name>data-focus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e04a0a9e-d3ae-4c5a-83ca-62c8c8c72f68</webElementGuid>
+      <webElementGuid>3e5a6c5c-5e31-4c7c-a196-a78f76ab155a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Private Company</value>
-      <webElementGuid>b49194b4-1382-4981-be8f-91710a386634</webElementGuid>
+      <value>End User Client</value>
+      <webElementGuid>b91341e9-eee4-4494-a537-289123aea666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fenx-95158-option-0&quot;)</value>
-      <webElementGuid>56a5c87d-fcd6-4146-9ee0-636f38e01174</webElementGuid>
+      <value>id(&quot;fenx-11793-option-0&quot;)</value>
+      <webElementGuid>36a58fb9-bc99-4ef4-af95-bde6a657aeb3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = 'Private Company' or . = 'Private Company')]</value>
-      <webElementGuid>b883a58d-45db-4293-b7e2-1966c739570d</webElementGuid>
+      <value>//li[(text() = 'End User Client' or . = 'End User Client')]</value>
+      <webElementGuid>acf37ebd-6562-4052-af5d-3912d79f2003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,47 +125,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::li[1]</value>
-      <webElementGuid>3262c0d1-b38a-4b3e-a47f-7ed8709c7365</webElementGuid>
+      <webElementGuid>dbc84dc4-3c03-4300-81c7-e12b94adb758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regulated Company'])[1]/preceding::li[1]</value>
-      <webElementGuid>cb26dcdc-0523-41b4-adc1-7f870ad1ee69</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermediary'])[1]/preceding::li[1]</value>
+      <webElementGuid>c4af9b9c-6bab-4fa7-a3ba-d4e90b7f5d41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listed Company'])[1]/preceding::li[2]</value>
-      <webElementGuid>9fe22c87-fa46-483f-adb0-030be9f801cd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional Introducer'])[1]/preceding::li[2]</value>
+      <webElementGuid>5c1efc9d-4093-44d7-bbfa-d6bdc0160b51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Private Company']/parent::*</value>
-      <webElementGuid>40155b97-9a80-4d9d-a6c7-2456f7fbc47b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='End User Client']/parent::*</value>
+      <webElementGuid>3dacb132-098a-442f-afb8-3fbd46a7f340</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='fenx-95158-option-0']</value>
-      <webElementGuid>09064306-900b-46f0-b2ec-ed6741137299</webElementGuid>
+      <value>//li[@id='fenx-11793-option-0']</value>
+      <webElementGuid>ea9fc698-2893-45cb-8c61-591fe1cfe1dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='fenx-95158-popup']/li</value>
-      <webElementGuid>a391bb27-2cb0-40b0-b334-3e08949a85de</webElementGuid>
+      <value>//ul[@id='fenx-11793-popup']/li</value>
+      <webElementGuid>2bc70497-3b84-4fd5-8d46-1e9d5f3d9cfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,22 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>75c374c1-19f3-41fd-93bd-61d4ffe51f98</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//li[@id='fenx-69492-option-0']</value>
-      <webElementGuid>9bd2f984-4497-4caf-ba4f-e9965a569b4a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//ul[@id='fenx-69492-popup']/li</value>
-      <webElementGuid>709b8e16-60ba-4b6e-b5c8-1d2487e639eb</webElementGuid>
+      <webElementGuid>1c24f354-19ba-4a3a-ac58-e27c4c4e5a40</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

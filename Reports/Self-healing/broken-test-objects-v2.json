@@ -39,6 +39,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/Date of Incorporation_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_vistra-sdlc-uat - Fenergo/li_Miss_1",
+      "brokenLocator": "internal:role\u003doption[name\u003d\"Miss\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//*[(text() \u003d \u0027Miss\u0027 or . \u003d \u0027Miss\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/li_Miss_1_BASIC.png"
     }
   ]
 }

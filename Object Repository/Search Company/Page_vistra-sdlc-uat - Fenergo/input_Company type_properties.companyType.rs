@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Role Type_properties.roleType</name>
+   <name>input_Company type_properties.companyType</name>
    <tag></tag>
-   <elementGuidId>533269c4-0c70-4ab9-8205-bbd734adddf0</elementGuidId>
+   <elementGuidId>de9bcbf3-76a4-439c-8e16-93d412155477</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#fenx-73410</value>
+         <value>#fenx-95158</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name = 'properties.roleType' and @placeholder = ' - select value -' and @type = 'text']</value>
+         <value>//input[@name = 'properties.companyType' and @placeholder = ' - select value -' and @type = 'text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;fen-dropdown-role-type&quot;] >> internal:attr=[placeholder=&quot; - select value -&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot; - select value -&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4778161d-5c2b-4bac-ad42-8b57a0cf8723</webElementGuid>
+      <webElementGuid>0a057b7f-93df-4315-8f12-fbf9aea983db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>22ac0dea-90ce-4807-a114-3606233392ba</webElementGuid>
+      <webElementGuid>986c8c1f-28cb-4100-a691-f1789e084a55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ef4c00f8-5836-4294-a95b-fb54193651ad</webElementGuid>
+      <webElementGuid>591640b1-9013-4afc-80df-b23651b3f5d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>properties.roleType</value>
-      <webElementGuid>0a0f8428-399a-44ec-9e58-b7575871a45e</webElementGuid>
+      <value>properties.companyType</value>
+      <webElementGuid>43dc9f82-1708-4e8b-8b2b-7088847873de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value> - select value -</value>
-      <webElementGuid>053e1649-f7e8-42b8-a478-c06deeeb4ec8</webElementGuid>
+      <webElementGuid>43c2d71b-f429-45cb-bf26-c7e1df9ad000</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>14d1a81c-0f9a-4f76-a876-8f49acc54187</webElementGuid>
+      <webElementGuid>028a53b1-7707-4929-83c0-e0a40c672162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou688 jou672 jou623 jou624 jou693 jou676 jou689 jou673</value>
-      <webElementGuid>0b22b00b-22c8-4898-b0c6-f9925d5daa34</webElementGuid>
+      <webElementGuid>fca1203a-62d5-44ff-b556-bb2b13866c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>both</value>
-      <webElementGuid>afa6d5ae-4d78-4a31-973d-b3d08b0481d0</webElementGuid>
+      <webElementGuid>531b3e11-98a8-4770-b539-6a2269d0105c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>6613ae34-837b-4826-a2ad-5fbc4f4133ae</webElementGuid>
+      <webElementGuid>47a5e707-ef98-41ab-864c-f6bc55158b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,78 +101,70 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7631ca91-84b9-4be4-8094-326bd5a534bd</webElementGuid>
+      <webElementGuid>d9fc8188-283a-4c57-973d-4dfa5e73409d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>fenx-73410</value>
-      <webElementGuid>4d6f8ce8-0a81-4936-a941-b6c628cbb520</webElementGuid>
+      <value>fenx-95158</value>
+      <webElementGuid>3e2bed6e-7b35-4edf-8757-69e117b07d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>fenx-73410-popup</value>
-      <webElementGuid>549960ed-2cdf-4910-971a-916b32c032fd</webElementGuid>
+      <value>fenx-95158-popup</value>
+      <webElementGuid>42593b50-06ad-44e8-83e2-974460cc64c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>fenx-73410-option-0</value>
-      <webElementGuid>58246142-0c4f-48d3-b484-36e1c9223d0a</webElementGuid>
+      <value>fenx-95158-option-0</value>
+      <webElementGuid>04a06814-a4d1-4b96-bd17-f8995795dd8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fenx-73410&quot;)</value>
-      <webElementGuid>1d6bdd7f-e8e9-4600-af2a-b306943b9613</webElementGuid>
+      <value>id(&quot;fenx-95158&quot;)</value>
+      <webElementGuid>6c2c3186-685e-4451-889b-446f1966f4ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'properties.roleType' and @placeholder = ' - select value -' and @type = 'text']</value>
-      <webElementGuid>22d1403e-e7b5-4aa8-9796-b6a72c305017</webElementGuid>
+      <value>//input[@name = 'properties.companyType' and @placeholder = ' - select value -' and @type = 'text']</value>
+      <webElementGuid>13388e91-ce95-4647-9751-a2ab02adb51f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='fenx-73410']</value>
-      <webElementGuid>450211e7-8edb-429a-b493-6a2332f37bda</webElementGuid>
+      <value>//input[@id='fenx-95158']</value>
+      <webElementGuid>1ed71f92-4b56-48ca-975b-5270e144978b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/input</value>
-      <webElementGuid>6af40d49-c8a7-4792-a7c0-7f71202679bc</webElementGuid>
+      <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[4]/div/div[2]/div/input</value>
+      <webElementGuid>606a8789-9d6c-4d05-a735-3a6f83863689</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/input</value>
-      <webElementGuid>20b232f2-2c02-44f5-b2ae-794192e01277</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='fenx-42237']</value>
-      <webElementGuid>89d7bfe8-4d3d-43e1-b76a-4c6d64f5b4d6</webElementGuid>
+      <value>//div[4]/div/div[2]/div/input</value>
+      <webElementGuid>ce71990c-b861-46b5-afd4-25ebcda0d86e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

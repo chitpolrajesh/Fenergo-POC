@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Role Type_properties.roleType</name>
    <tag></tag>
-   <elementGuidId>533269c4-0c70-4ab9-8205-bbd734adddf0</elementGuidId>
+   <elementGuidId>3577139a-6833-4f4b-8fe6-de33bdb54859</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4778161d-5c2b-4bac-ad42-8b57a0cf8723</webElementGuid>
+      <webElementGuid>3ce5e03e-79d7-4598-af6c-999339045a1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>22ac0dea-90ce-4807-a114-3606233392ba</webElementGuid>
+      <webElementGuid>7a49ec98-716b-413e-a202-ebe671e9b748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ef4c00f8-5836-4294-a95b-fb54193651ad</webElementGuid>
+      <webElementGuid>0ee2f7bc-fbd4-4939-9247-00e07fc00e56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>properties.roleType</value>
-      <webElementGuid>0a0f8428-399a-44ec-9e58-b7575871a45e</webElementGuid>
+      <webElementGuid>afb0f710-6609-46cd-9d16-4ae231267265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value> - select value -</value>
-      <webElementGuid>053e1649-f7e8-42b8-a478-c06deeeb4ec8</webElementGuid>
+      <webElementGuid>48db7384-24b9-4594-a31f-15d92a80c371</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>14d1a81c-0f9a-4f76-a876-8f49acc54187</webElementGuid>
+      <webElementGuid>68ba4dd3-95a9-4154-b687-b0fc0aa9597b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou688 jou672 jou623 jou624 jou693 jou676 jou689 jou673</value>
-      <webElementGuid>0b22b00b-22c8-4898-b0c6-f9925d5daa34</webElementGuid>
+      <webElementGuid>38b0416e-d58e-4ff8-816d-0ff70e76c204</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>both</value>
-      <webElementGuid>afa6d5ae-4d78-4a31-973d-b3d08b0481d0</webElementGuid>
+      <webElementGuid>671d4460-f757-4889-9fde-37ec5e2b9303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>6613ae34-837b-4826-a2ad-5fbc4f4133ae</webElementGuid>
+      <webElementGuid>981283b7-3abd-4c9b-a9af-2e16e3d50245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7631ca91-84b9-4be4-8094-326bd5a534bd</webElementGuid>
+      <webElementGuid>fc1d54ed-9262-414f-8d2b-2e7b9d3cdfdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>id</name>
       <type>Main</type>
       <value>fenx-73410</value>
-      <webElementGuid>4d6f8ce8-0a81-4936-a941-b6c628cbb520</webElementGuid>
+      <webElementGuid>d0cb3c6d-3117-4a65-8960-aef6aa7e11f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>fenx-73410-popup</value>
-      <webElementGuid>549960ed-2cdf-4910-971a-916b32c032fd</webElementGuid>
+      <webElementGuid>c9b4bae4-c70e-46dc-9253-196150edaacc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>aria-activedescendant</name>
       <type>Main</type>
       <value>fenx-73410-option-0</value>
-      <webElementGuid>58246142-0c4f-48d3-b484-36e1c9223d0a</webElementGuid>
+      <webElementGuid>17665e7e-9061-44ad-b10d-71ed0ad05ab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fenx-73410&quot;)</value>
-      <webElementGuid>1d6bdd7f-e8e9-4600-af2a-b306943b9613</webElementGuid>
+      <webElementGuid>95d21c29-147e-42e7-b46d-c50b37d9acc1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'properties.roleType' and @placeholder = ' - select value -' and @type = 'text']</value>
-      <webElementGuid>22d1403e-e7b5-4aa8-9796-b6a72c305017</webElementGuid>
+      <webElementGuid>242e01fc-e52d-4fbf-ba7f-56cd97f201e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='fenx-73410']</value>
-      <webElementGuid>450211e7-8edb-429a-b493-6a2332f37bda</webElementGuid>
+      <webElementGuid>32b97874-2c32-4c52-8acf-9459cba9806c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/input</value>
-      <webElementGuid>6af40d49-c8a7-4792-a7c0-7f71202679bc</webElementGuid>
+      <webElementGuid>b545f0d3-0859-4abc-9bc5-a30b34afac7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,14 +165,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/input</value>
-      <webElementGuid>20b232f2-2c02-44f5-b2ae-794192e01277</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='fenx-42237']</value>
-      <webElementGuid>89d7bfe8-4d3d-43e1-b76a-4c6d64f5b4d6</webElementGuid>
+      <webElementGuid>8473b3c5-6664-431b-922d-0c4fa5610ff6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
