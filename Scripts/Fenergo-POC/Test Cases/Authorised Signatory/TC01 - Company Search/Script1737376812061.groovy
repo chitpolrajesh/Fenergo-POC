@@ -62,22 +62,23 @@ WebUI.click(findTestObject('Object Repository/Search Company/Page_vistra-sdlc-ua
 
 WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/svg'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/svg'))
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/svg_1'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/svg_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_Title_properties.individualTitle_1'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_Title_properties.individualTitle_1'))
 
-WebUI.enableSmartWait()
+not_run: WebUI.enableSmartWait()
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/li_Miss_1'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/li_Miss_1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_Surname_properties.lastName_1'), 'gajjar')
+not_run: WebUI.setText(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_Surname_properties.lastName_1'), 
+    'gajjar')
 
-WebUI.setText(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_First Name_properties.firstName_1'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/input_First Name_properties.firstName_1'), 
     'chaitrali')
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/span_Search'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/span_Search'))
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/span_Link'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/span_Link'))
 

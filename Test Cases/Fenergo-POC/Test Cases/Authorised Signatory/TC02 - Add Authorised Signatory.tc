@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Company Search</name>
+   <name>TC02 - Add Authorised Signatory</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8bf792c2-5995-4b9e-8e26-7be9de40baf0</testCaseGuid>
+   <testCaseGuid>e3799003-525a-4e94-b906-41d84453530a</testCaseGuid>
 </TestCaseEntity>

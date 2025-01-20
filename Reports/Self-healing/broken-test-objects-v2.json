@@ -49,6 +49,26 @@
       "proposedLocatorMethod": "BASIC",
       "recoveryMethod": "BASIC",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_vistra-sdlc-uat - Fenergo/li_Miss_1_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/li_Algeria_1_2",
+      "brokenLocator": "internal:role\u003doption[name\u003d\"Algeria\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Andorra\u0027])[1]/preceding::li[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/li_Algeria_1_2_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Save",
+      "brokenLocator": "[data-testid\u003d\"data-group-collection-modal-save-button\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//*[(text() \u003d \u0027Save\u0027 or . \u003d \u0027Save\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Save_BASIC.png"
     }
   ]
 }
