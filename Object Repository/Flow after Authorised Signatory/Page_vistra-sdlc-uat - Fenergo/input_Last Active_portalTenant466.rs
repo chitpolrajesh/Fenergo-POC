@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Last Active_portalTenant466</name>
+   <tag></tag>
+   <elementGuidId>17702ad0-0433-4aae-af8d-a2489dbe8585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.portalTenant389.portalTenant391.portalTenant419.portalTenant393 > span.portalTenant172.portalTenant361.portalTenant463.portalTenant558.portalTenant562.portalTenant365 > span.portalTenant369 > input.portalTenant466</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;table-body-checkbox&quot;] >> internal:role=checkbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>561d72a0-55e9-4606-a141-d3a77fe235a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>portalTenant466</value>
+      <webElementGuid>d8e3f0ba-ee57-479b-885b-4f7ee47c0408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>6beefc81-7e01-4ee7-a30d-9fb958ba43f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-indeterminate</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2abcf074-500d-4762-a39b-214c99c0f13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@fenx/ui-portal-tenant&quot;)/div[1]/div[1]/div[@class=&quot;portalTenant26&quot;]/div[@class=&quot;portalTenant29 portalTenant30&quot;]/div[@class=&quot;portalTenant600&quot;]/div[@class=&quot;portalTenant377 portalTenant599&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant419 portalTenant393&quot;]/span[@class=&quot;portalTenant172 portalTenant361 portalTenant463 portalTenant558 portalTenant562 portalTenant365&quot;]/span[@class=&quot;portalTenant369&quot;]/input[@class=&quot;portalTenant466&quot;]</value>
+      <webElementGuid>7f01f29f-1e27-4b0b-9534-26a605835abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>c9d963eb-eeb9-4f41-a5e3-a6b9daae7fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>e946b463-0a96-400b-84f4-c84f15a88a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@fenx/ui-portal-tenant']/div/div/div/div[2]/div/div[3]/table/tbody/tr/td[2]/span/span/input</value>
+      <webElementGuid>d7c701f7-da9b-4a44-a015-f3463ad62ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span/span/input</value>
+      <webElementGuid>841f6874-4b22-478d-b086-28f7ae364521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

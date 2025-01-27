@@ -69,6 +69,16 @@
       "proposedLocatorMethod": "BASIC",
       "recoveryMethod": "BASIC",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Save_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/input_Are there Law Enforcement hits_proper_2056bc",
+      "brokenLocator": "[data-testid\u003d\"fen-dropdown-are-there-law-enforcement-hits\\?\"] \u003e\u003e internal:attr\u003d[placeholder\u003d\" - select value -\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//*[@name \u003d \u0027properties.enforcement\u0027 and @placeholder \u003d \u0027 - select value -\u0027 and @type \u003d \u0027text\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/input_Are there Law Enforcement hits_proper_2056bc_BASIC.png"
     }
   ]
 }

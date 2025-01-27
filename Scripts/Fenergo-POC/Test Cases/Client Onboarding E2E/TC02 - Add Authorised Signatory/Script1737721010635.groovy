@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
+WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
 
 WebUI.click(findTestObject('Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/svg'))
 

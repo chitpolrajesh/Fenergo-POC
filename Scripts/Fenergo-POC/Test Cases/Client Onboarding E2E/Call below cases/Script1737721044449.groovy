@@ -17,10 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Authorised Signatory/TC01 - Company Search'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Client Onboarding E2E/TC01'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Authorised Signatory/TC02 - Add Authorised Signatory'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Client Onboarding E2E/TC02'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Authorised Signatory/TC03 - Flow After Authorised Signatory'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Client Onboarding E2E/TC03'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Client Onboarding E2E/TC02 - Add Authorised Signatory'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Fenergo-POC/Test Cases/Client Onboarding E2E/TC03 - Flow After Authorised Signatory'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 

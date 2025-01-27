@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Add Authorised Signatory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>231cf9ea-aef4-41a3-8566-b9caf3a0bbf3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Flow After Authorised Signatory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6e73537-9c27-40ad-aee0-06bbd5e5c415</testCaseGuid>
+</TestCaseEntity>
