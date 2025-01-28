@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Complete'))
 
+WebUI.enableSmartWait()
+
 WebUI.click(findTestObject('Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
 
 WebUI.click(findTestObject('Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Link'))
