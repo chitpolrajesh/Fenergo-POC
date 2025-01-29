@@ -109,6 +109,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/div_Link",
+      "brokenLocator": "[data-testid\u003d\"fen-radio-chip-link\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Email Address\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/div_Link_neighbor.png"
     }
   ]
 }

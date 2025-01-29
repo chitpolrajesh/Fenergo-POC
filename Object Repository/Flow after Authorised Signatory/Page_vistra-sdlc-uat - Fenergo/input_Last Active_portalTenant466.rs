@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td.portalTenant389.portalTenant391.portalTenant419.portalTenant393 > span.portalTenant172.portalTenant361.portalTenant463.portalTenant558.portalTenant562.portalTenant365 > span.portalTenant369 > input.portalTenant466</value>
+         <value>td.portalTenant389.portalTenant391.portalTenant419.portalTenant393 > span.portalTenant167.portalTenant361.portalTenant463.portalTenant558.portalTenant562.portalTenant365 > span.portalTenant369 > input.portalTenant466</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>561d72a0-55e9-4606-a141-d3a77fe235a6</webElementGuid>
+      <webElementGuid>8d370818-681a-44ff-9ce7-651693e1b14d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>portalTenant466</value>
-      <webElementGuid>d8e3f0ba-ee57-479b-885b-4f7ee47c0408</webElementGuid>
+      <webElementGuid>b24b7632-b196-498b-a62a-30334d1a1dcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>6beefc81-7e01-4ee7-a30d-9fb958ba43f7</webElementGuid>
+      <webElementGuid>8ae0dd15-bf04-4acd-ae78-c370bf869f77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>data-indeterminate</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2abcf074-500d-4762-a39b-214c99c0f13d</webElementGuid>
+      <webElementGuid>4d2dc1cb-2e74-4aee-a7df-3bbe77a1a86b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@fenx/ui-portal-tenant&quot;)/div[1]/div[1]/div[@class=&quot;portalTenant26&quot;]/div[@class=&quot;portalTenant29 portalTenant30&quot;]/div[@class=&quot;portalTenant600&quot;]/div[@class=&quot;portalTenant377 portalTenant599&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant419 portalTenant393&quot;]/span[@class=&quot;portalTenant172 portalTenant361 portalTenant463 portalTenant558 portalTenant562 portalTenant365&quot;]/span[@class=&quot;portalTenant369&quot;]/input[@class=&quot;portalTenant466&quot;]</value>
-      <webElementGuid>7f01f29f-1e27-4b0b-9534-26a605835abb</webElementGuid>
+      <value>id(&quot;single-spa-application:@fenx/ui-portal-tenant&quot;)/div[1]/div[1]/div[@class=&quot;portalTenant26&quot;]/div[@class=&quot;portalTenant29 portalTenant30&quot;]/div[@class=&quot;portalTenant599&quot;]/div[@class=&quot;portalTenant377 portalTenant598&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant419 portalTenant393&quot;]/span[@class=&quot;portalTenant167 portalTenant361 portalTenant463 portalTenant558 portalTenant562 portalTenant365&quot;]/span[@class=&quot;portalTenant369&quot;]/input[@class=&quot;portalTenant466&quot;]</value>
+      <webElementGuid>7bfd8f77-b26f-4524-9b8b-67c6c184ef71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>c9d963eb-eeb9-4f41-a5e3-a6b9daae7fa5</webElementGuid>
+      <webElementGuid>703c777a-cab8-4d2e-b81b-350f910ca6cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@value=''])[4]</value>
-      <webElementGuid>e946b463-0a96-400b-84f4-c84f15a88a7b</webElementGuid>
+      <webElementGuid>863f7b83-04c3-4ba2-b265-d1fc2ea44a57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@fenx/ui-portal-tenant']/div/div/div/div[2]/div/div[3]/table/tbody/tr/td[2]/span/span/input</value>
-      <webElementGuid>d7c701f7-da9b-4a44-a015-f3463ad62ff3</webElementGuid>
+      <webElementGuid>f4f33551-7497-4d55-b1a5-9bd311ad5fce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/span/span/input</value>
-      <webElementGuid>841f6874-4b22-478d-b086-28f7ae364521</webElementGuid>
+      <webElementGuid>d12e04b8-32d0-4e0d-9f6e-e544be649185</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
