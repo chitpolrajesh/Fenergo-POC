@@ -79,6 +79,46 @@
       "proposedLocatorMethod": "BASIC",
       "recoveryMethod": "BASIC",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/input_Are there Law Enforcement hits_proper_2056bc_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Complete",
+      "brokenLocator": "[data-testid\u003d\"fen-button-complete\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//*[(text() \u003d \u0027Complete\u0027 or . \u003d \u0027Complete\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/span_Complete_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/input_maggie.smithtestmail.com_portalTenant466",
+      "brokenLocator": "internal:role\u003drow[name\u003d\"Link Maggie Smith Authorised Signatory maggie.smith@testmail.com\"i] \u003e\u003e internal:role\u003dradio",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(//input[@value\u003d\u0027\u0027])[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/input_maggie.smithtestmail.com_portalTenant466_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/svg",
+      "brokenLocator": "[data-testid\u003d\"addButton\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027In Progress\u0027])[1]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/div_Link",
+      "brokenLocator": "[data-testid\u003d\"fen-radio-chip-link\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Email Address\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Flow after Authorised Signatory/Page_vistra-sdlc-uat - Fenergo/div_Link_neighbor.png"
     }
   ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_maggie.smithtestmail.com_portalTenant466</name>
+   <name>input_Email Address_portalTenant466</name>
    <tag></tag>
-   <elementGuidId>50d87135-e652-46b4-a864-5dc8cf8f638f</elementGuidId>
+   <elementGuidId>49ae2790-1bc9-4322-b604-baf9377a494d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,13 +11,14 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value>input.portalTenant466</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;Link Maggie Smith Authorised Signatory maggie.smith@testmail.com&quot;i] >> internal:role=radio</value>
+         <value>internal:role=radio</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1b790eec-4010-46e6-a108-0c0eedd78526</webElementGuid>
+      <webElementGuid>af4de845-6717-4559-9cae-50490c8cde84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>portalTenant466</value>
-      <webElementGuid>b759749c-cde3-4db3-94de-62c976b84a34</webElementGuid>
+      <webElementGuid>66a1e43d-91dc-4f8f-8f60-4ae39ba91059</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,15 +45,15 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>a720ebb5-ba59-4567-a8d8-e08d65030735</webElementGuid>
+      <webElementGuid>50b71d90-a433-4b52-8802-4fc56cf1cc21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;portalTenant301&quot;]/div[@class=&quot;portalTenant304 portalTenant302&quot;]/div[@class=&quot;portalTenant324 portalTenant305 portalTenant297 portalTenant306 portalTenant311 portalTenant314 portalTenant351 portalTenant325&quot;]/div[@class=&quot;portalTenant296&quot;]/div[@class=&quot;portalTenant489&quot;]/div[@class=&quot;portalTenant377 portalTenant488&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant420 portalTenant393&quot;]/div[@class=&quot;portalTenant172 portalTenant427 portalTenant425 portalTenant432&quot;]/span[@class=&quot;portalTenant172 portalTenant361 portalTenant463 portalTenant458 portalTenant457 portalTenant462 portalTenant445 portalTenant366&quot;]/span[@class=&quot;portalTenant369&quot;]/input[@class=&quot;portalTenant466&quot;]</value>
-      <webElementGuid>e9c4b30c-bd6b-44cf-b98e-d66892b62928</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;portalTenant301&quot;]/div[@class=&quot;portalTenant304 portalTenant302&quot;]/div[@class=&quot;portalTenant324 portalTenant305 portalTenant297 portalTenant306 portalTenant311 portalTenant314 portalTenant351 portalTenant325&quot;]/div[@class=&quot;portalTenant296&quot;]/div[@class=&quot;portalTenant489&quot;]/div[@class=&quot;portalTenant377 portalTenant488&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant420 portalTenant393&quot;]/div[@class=&quot;portalTenant167 portalTenant427 portalTenant425 portalTenant432&quot;]/span[@class=&quot;portalTenant167 portalTenant361 portalTenant463 portalTenant458 portalTenant457 portalTenant462 portalTenant445 portalTenant366&quot;]/span[@class=&quot;portalTenant369&quot;]/input[@class=&quot;portalTenant466&quot;]</value>
+      <webElementGuid>172c45a1-903d-4d7a-b525-fb83d8a0b7fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,22 +61,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio']</value>
-      <webElementGuid>a340fb0a-c893-47ac-80f1-cc6a09f6ebd4</webElementGuid>
+      <webElementGuid>b20f4db2-0d73-45f8-acbe-f9ad630f36c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@value=''])[5]</value>
-      <webElementGuid>69bf989a-f1a2-4e5b-91fd-51a5ff8bb7d4</webElementGuid>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>0e728dae-d0c9-4113-a493-2d8c772af0c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[2]/div/span/span/input</value>
-      <webElementGuid>8397e831-b55c-41b1-aea0-4484bd3e6bb8</webElementGuid>
+      <value>//span/input</value>
+      <webElementGuid>fedd99a5-bd0c-45e7-9889-f04f36018848</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

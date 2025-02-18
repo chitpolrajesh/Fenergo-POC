@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td.MuiTableCell-root.MuiTableCell-body.ass4300.MuiTableCell-sizeSmall > div.MuiButtonBase-root.MuiChip-root.ass4293.MuiChip-clickable</value>
+         <value>div.portalTenant167.portalTenant427.portalTenant425.portalTenant432</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;fen-radio-chip-link&quot;] >> nth=0</value>
+         <value>[data-testid=&quot;fen-radio-chip-link&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cdb700d2-198f-4615-9212-76a1bf2e77e7</webElementGuid>
+      <webElementGuid>5af1e7f5-fe73-4470-91d4-4b8dd1f85b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiChip-root ass4293 MuiChip-clickable</value>
-      <webElementGuid>ea13e584-e558-443a-9456-62ea8ee63afd</webElementGuid>
+      <value>portalTenant167 portalTenant427 portalTenant425 portalTenant432</value>
+      <webElementGuid>147ac97b-986f-4cd9-802d-adc3e6d00fe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0906eb76-b364-4752-88ae-52f64be5524e</webElementGuid>
+      <webElementGuid>4ce901ac-dcea-4d64-b7ee-2a039ee7f47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fed58941-5476-4a32-a80c-bed03594c249</webElementGuid>
+      <webElementGuid>ee76aadb-31fb-4241-a3a1-f107b5237218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>fen-radio-chip-link</value>
-      <webElementGuid>0fdd5b90-295e-4833-9779-9773b2c5100d</webElementGuid>
+      <webElementGuid>643bb8d3-61bd-4a9a-a9ff-53d992eff3ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,15 +69,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Link</value>
-      <webElementGuid>c08408f2-41a1-4320-8d25-919754bd723f</webElementGuid>
+      <webElementGuid>8a18acb8-8273-434f-8bef-dc8258c6834f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root ass2580&quot;]/div[@class=&quot;ass2577&quot;]/div[@class=&quot;ass2579&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root ass2817 Mui-expanded ass2822 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[1]/div[@class=&quot;MuiAccordionDetails-root ass2821&quot;]/div[@class=&quot;ass4289&quot;]/div[@class=&quot;MuiTableContainer-root ass4288&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root ass2229 ass4296 MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body ass4300 MuiTableCell-sizeSmall&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root ass4293 MuiChip-clickable&quot;]</value>
-      <webElementGuid>21ef98d2-6b3c-41d2-88e6-42a170472446</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;portalTenant301&quot;]/div[@class=&quot;portalTenant304 portalTenant302&quot;]/div[@class=&quot;portalTenant324 portalTenant305 portalTenant297 portalTenant306 portalTenant311 portalTenant314 portalTenant351 portalTenant325&quot;]/div[@class=&quot;portalTenant296&quot;]/div[@class=&quot;portalTenant489&quot;]/div[@class=&quot;portalTenant377 portalTenant488&quot;]/table[@class=&quot;portalTenant378&quot;]/tbody[@class=&quot;portalTenant415&quot;]/tr[@class=&quot;portalTenant384 portalTenant423 portalTenant416 portalTenant386&quot;]/td[@class=&quot;portalTenant389 portalTenant391 portalTenant420 portalTenant393&quot;]/div[@class=&quot;portalTenant167 portalTenant427 portalTenant425 portalTenant432&quot;]</value>
+      <webElementGuid>950bbb31-3a79-48d3-a334-b3aded926839</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,23 +85,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@data-testid = 'fen-radio-chip-link' and (text() = 'Link' or . = 'Link')]</value>
-      <webElementGuid>ba38cea5-854e-4630-a2c3-57f0bfdeb771</webElementGuid>
+      <webElementGuid>bece2772-9b2b-446a-ae9c-7d63ae3588e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Type'])[2]/following::div[2]</value>
-      <webElementGuid>1ec4c6d7-6b9e-4324-bd2e-c1fdf4ffc323</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[2]</value>
+      <webElementGuid>e026bef0-bdd5-47ba-81ef-c7be7ab40296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::div[2]</value>
-      <webElementGuid>0817e617-e96f-46a5-89b5-1b1a012314fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship'])[1]/following::div[2]</value>
+      <webElementGuid>00bfad26-3f50-4403-b7e3-28201701eb96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Maggie Smith'])[1]/preceding::div[2]</value>
-      <webElementGuid>baf96eff-6c8a-41e6-9ecf-fccc3b89abe7</webElementGuid>
+      <webElementGuid>e9891fb6-47b1-4786-91b3-320805b961c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>135c8108-5d52-4021-99b7-18c881cbc191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Type'])[2]/following::div[2]</value>
+      <webElementGuid>68f315c8-b768-4c71-839c-703f48e816c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::div[2]</value>
+      <webElementGuid>1afe4b97-1cdf-4348-a7bc-18629754138b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +141,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tbody/tr/td[2]/div</value>
-      <webElementGuid>d8af4223-6716-4012-bfe9-cb787e3cd603</webElementGuid>
+      <webElementGuid>f6b58dd4-90d7-4209-aa70-2deb1510619f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

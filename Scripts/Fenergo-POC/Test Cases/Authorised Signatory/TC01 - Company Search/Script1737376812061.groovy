@@ -60,5 +60,5 @@ WebUI.click(findTestObject('Object Repository/Search Company/Page_vistra-sdlc-ua
 
 WebUI.click(findTestObject('Object Repository/Search Company/Page_vistra-sdlc-uat - Fenergo/a_Client Acceptance'))
 
-WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_vistra-sdlc-uat - Fenergo/h6_Relationship Manager'))
 

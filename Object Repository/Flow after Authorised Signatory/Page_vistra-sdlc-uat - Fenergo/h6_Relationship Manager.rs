@@ -6,12 +6,15 @@
    <elementGuidId>a8d331d8-df9a-4eea-b19c-f17bd8da9d2e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//h6[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>219186d1-d327-4207-9f56-d7b15683e6a8</webElementGuid>
+      <webElementGuid>cbc73c43-3875-4016-a6d8-7eb6ae0146fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jou4084 jou4308 jou4096</value>
-      <webElementGuid>f593c9a6-b839-4c87-9f68-bad3f6af7824</webElementGuid>
+      <webElementGuid>c38fd1f7-7327-4236-8816-0f4f8e51d9d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Relationship Manager</value>
-      <webElementGuid>89e17213-717e-4742-a85f-a38f99166e0c</webElementGuid>
+      <webElementGuid>7ac44746-bbeb-4c17-baab-d4316808d6fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@fenx/ui-journey&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;jou4075 jou4074&quot;]/div[@class=&quot;jou4077 jou4079&quot;]/div[@class=&quot;jou4072&quot;]/div[@class=&quot;jou4251&quot;]/div[@class=&quot;jou4255 jou4256&quot;]/div[1]/div[@class=&quot;jou4302 jou4301 jou4296&quot;]/div[@class=&quot;jou4297&quot;]/div[@class=&quot;jou4304&quot;]/div[@class=&quot;jou4305&quot;]/h6[@class=&quot;jou4084 jou4308 jou4096&quot;]</value>
-      <webElementGuid>c1f15a26-61ca-4185-ad5d-808de4303dcd</webElementGuid>
+      <webElementGuid>ac1bd454-5a45-44b9-8448-93736a7b4522</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +64,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Relationship Manager' or . = 'Relationship Manager')]</value>
-      <webElementGuid>1f700fd1-4a76-4717-a3ba-2f14bb1adf52</webElementGuid>
+      <webElementGuid>62c1ed19-b3b8-4c84-8733-2206f10f08af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Portal User'])[1]/following::h6[1]</value>
-      <webElementGuid>0e2b82d7-45b3-4be7-8451-9ea1eb9150d8</webElementGuid>
+      <webElementGuid>1ee72150-4aff-4f3f-aa67-f116447501f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Manager'])[2]/following::h6[1]</value>
-      <webElementGuid>9edab276-e3fa-4dce-b5cc-b9ba3cf58333</webElementGuid>
+      <webElementGuid>4ed78907-4db5-4a38-bcf4-4bbd507fda6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outreach Checkpoint'])[1]/preceding::h6[1]</value>
-      <webElementGuid>ef1b7999-aa11-40ef-87f7-d947deda1a2b</webElementGuid>
+      <webElementGuid>25efe498-acc2-492a-b44f-2c063bc234f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outreach Checkpoint'])[2]/preceding::h6[1]</value>
-      <webElementGuid>b19135a5-ec25-4da0-9f3a-132101e7f153</webElementGuid>
+      <webElementGuid>70e1154e-f89c-4d51-bc3b-20f9aaab702e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +104,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@fenx/ui-journey']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/div[3]/div[2]/div/div[2]/h6</value>
-      <webElementGuid>d8a0424c-5cf7-4bce-89de-04eb2e65b0c3</webElementGuid>
+      <webElementGuid>e4a86ec4-f974-4d0c-9f60-a202a150d53b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +112,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div[2]/h6</value>
-      <webElementGuid>20d4c08b-fdd7-4a88-bf5b-e0f2bef1ab60</webElementGuid>
+      <webElementGuid>1e96aa98-586f-48cd-ba2b-e9a685ccedbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
